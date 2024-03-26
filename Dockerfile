@@ -8,4 +8,4 @@ RUN npm install
 
 CMD ["node", "app.js"]
 
-ENTRYPOINT [3000]
+EXPOSE 3000
